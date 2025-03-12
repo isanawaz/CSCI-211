@@ -50,7 +50,3 @@ Q . . . . . . .
 ## Future Improvements
 - Extend the solution to `N-Queens` (`N > 8`).
 - Implement a graphical visualization.
-
----
-This README provides details on how the program works, its purpose, and how to run it. Let me know if you need modifications!
-
