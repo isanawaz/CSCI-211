@@ -7,7 +7,7 @@ This repository contains various algorithmic solutions implemented in **C++**, f
 This repository includes solutions for:
 
 ### **N-Queens Problem**
-- **NQueens - Dynamic Memory/Nqueens_DynamicMemory.cpp** – Dynamic memory allocation for N-Queens.
+- **[`Nqueens_DynamicMemory.cpp`](./NQueens - Dynamic Memory/Nqueens_DynamicMemory.cpp)** – Dynamic memory allocation for N-Queens.
 - **[`8queens_1d.cpp`](./8queens_1d.cpp)** – Standard backtracking implementation for 8 Queens (1D array).
 - **[`8queens_1d_NoGoto.cpp`](./8queens_1d_NoGoto.cpp)** – Goto-free backtracking implementation.
 - **[`8queens_1d_Dumb.cpp`](./8queens_1d_Dumb.cpp)** – Brute-force (inefficient) solution.
