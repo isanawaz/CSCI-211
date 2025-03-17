@@ -13,8 +13,6 @@ import java.io.IOException;
  *
  * If the text file cannot be created, a RuntimeException is thrown, which by default 
  * results in an error message being printed to the standard error stream.
- *
- * @author D. Nixon
  */
 public class TextFileInput  {
 
